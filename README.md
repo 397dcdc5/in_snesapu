@@ -15,8 +15,6 @@ We recommend SNESAPU.DLL version 2.20.0 or higher. Even if the recommended versi
   
 We have not confirmed that   in_snesapu.dll works with XMPlay file version 3.8.5.0 or lower. Also, it may not work with future changes in XMPlay's specifications.  
   
-Please check for viruses before using in_snesapu.dll.  
-  
   
 Disclaimer: -------------------  
 No Warranty. Use at your own risk.  
@@ -29,6 +27,5 @@ Message/Comments/Tags are displayed.
   
 Script700 is not supported.  
   
-The size of the DLL is large because it is built with /MT.  
   
 All this DLL does is transcribe 32bit float PCM data received from SNESAPU.DLL to a float buffer prepared by XMPlay using movsd.  
