@@ -2,7 +2,7 @@
 
 in_snesapu.dll is a plug-in that allows you to use degrade-factory improved SNESAPU.DLL (for other players) with XMPlay.  
 
-![Sample screenshot: in_snesapudlg.](./in_snesapudlg.png)  
+![Sample screenshot: in_snesapudlg.](/in_snesapu/in_snesapudlg.png)  
 
 ﻿﻿in_snesapu.dll (x86)  
   
