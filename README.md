@@ -27,6 +27,4 @@ XMPlay's PCM data is received as float (IEEE 754), and the improved SNESAPU.DLL 
 Message/Comments/Tags are displayed.
   
 Script700 is not supported.  
-  
-  
-All this DLL does is transcribe 32bit float PCM data received from SNESAPU.DLL to a float buffer prepared by XMPlay using movsd.  
+   
